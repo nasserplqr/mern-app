@@ -16,10 +16,9 @@ we just have a simple view that shows us the list of emails and a form for addin
 - ~~Create custom hook for calling APIs according to a specific config~~
 - ~~Adding material ui and using its style and UI elements for app~~
 - ~~Display Errors in Snackbars or toasts~~
-- ~~Review and refactor Front-end code.~~
 - ~~After Select any item in list email text box will be focused for data entry~~
-
-- add gpg signing key for commits. (test8)
+- ~~Review and refactor Front-end code.~~
+- add gpg signing key for commits. (test9)
 
 these items would change after any commit.
 new items would be added here, and the done items would have an overline.
