@@ -19,7 +19,7 @@ we just have a simple view that shows us the list of emails and a form for addin
 - ~~Review and refactor Front-end code.~~
 - ~~After Select any item in list email text box will be focused for data entry~~
 
-- add gpg signing key for commits. (test7)
+- add gpg signing key for commits. (test8)
 
 these items would change after any commit.
 new items would be added here, and the done items would have an overline.
