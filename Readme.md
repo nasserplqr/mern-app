@@ -18,7 +18,7 @@ we just have a simple view that shows us the list of emails and a form for addin
 - ~~Display Errors in Snackbars or toasts~~
 - ~~After Select any item in list email text box will be focused for data entry~~
 - ~~Review and refactor Front-end code.~~
-- add gpg signing key for commits. (test5)
+- add gpg signing key for commits. (test6)
 
 these items would change after any commit.
 new items would be added here, and the done items would have an overline.
