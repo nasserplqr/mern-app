@@ -1,6 +1,7 @@
 # Mern-Sample app
 
-In the first version, we just have a simple view that shows us the list of emails and a form for adding new email and passwords to the list.
+In the first version,
+we just have a simple view that shows us the list of emails and a form for adding new email and passwords to the list.
 
 
 
@@ -19,7 +20,8 @@ In the first version, we just have a simple view that shows us the list of email
 - ~~Display Errors in Snackbars or toasts~~
 - ~~After Select any item in list email text box will be focused for data entry~~
 - ~~Review and refactor Front-end code.~~
-- add gpg signing key for commits. (test3)
+- add gpg signing key for commits. (test4)
 
-these items would change after any commit. new items would be added here and the done items would have a overline.
+these items would change after any commit.
+new items would be added here and the done items would have an overline.
 bear with me while I'm developing this app.
