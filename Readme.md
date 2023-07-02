@@ -18,8 +18,7 @@ we just have a simple view that shows us the list of emails and a form for addin
 - ~~Adding material ui and using its style and UI elements for app~~
 - ~~After Select any item in list email text box will be focused for data entry~~
 - ~~Review and refactor Front-end code.~~
-
-- add gpg signing key for commits. (test10)
+- ~~add gpg signing key for commits.~~
 
 these items would change after any commit.
 new items would be added here, and the done items would have an overline.
