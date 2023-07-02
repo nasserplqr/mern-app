@@ -19,7 +19,7 @@ In the first version we just have simple view that shows us the list of emails a
 - ~~Display Errors in Snackbars or toasts~~
 - ~~After Select any item in list email text box will be focused for data entry~~
 - ~~Review and refactor Front-end code.~~
-- add gpg signing key for commits.
+- add gpg signing key for commits. (test1)
 
 these items would change after any commit. new items would be added here and the done items would have a overline.
 bear with me while I'm developing this app.
